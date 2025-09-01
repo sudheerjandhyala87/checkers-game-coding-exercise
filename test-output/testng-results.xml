@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-31T18:53:42 CDT" name="Checkers Automation Suite" finished-at="2025-08-31T18:54:10 CDT" duration-ms="27890">
+    <groups>
+    </groups>
+    <test started-at="2025-08-31T18:53:42 CDT" name="Checkers Game Tests" finished-at="2025-08-31T18:54:10 CDT" duration-ms="27890">
+      <class name="com.checkers.tests.CheckersTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.checkers.tests.CheckersTest@6ad82709]" started-at="2025-08-31T18:53:42 CDT" name="setup" finished-at="2025-08-31T18:53:44 CDT" duration-ms="1787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSiteIsUp()[pri:1, instance:com.checkers.tests.CheckersTest@6ad82709]" started-at="2025-08-31T18:53:44 CDT" name="testSiteIsUp" finished-at="2025-08-31T18:53:48 CDT" duration-ms="4596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSiteIsUp -->
+        <test-method signature="testMakeFiveMovesIncludingCapture()[pri:2, instance:com.checkers.tests.CheckersTest@6ad82709]" started-at="2025-08-31T18:53:48 CDT" name="testMakeFiveMovesIncludingCapture" finished-at="2025-08-31T18:54:09 CDT" duration-ms="20361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMakeFiveMovesIncludingCapture -->
+        <test-method signature="testRestartGame()[pri:3, instance:com.checkers.tests.CheckersTest@6ad82709]" started-at="2025-08-31T18:54:09 CDT" name="testRestartGame" finished-at="2025-08-31T18:54:10 CDT" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRestartGame -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.checkers.tests.CheckersTest@6ad82709]" started-at="2025-08-31T18:54:10 CDT" name="tearDown" finished-at="2025-08-31T18:54:10 CDT" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.checkers.tests.CheckersTest -->
+    </test> <!-- Checkers Game Tests -->
+  </suite> <!-- Checkers Automation Suite -->
+</testng-results>
