@@ -50,9 +50,5 @@ Each test step has logging for clarity during execution.
 
 Author:
 Sudheer Chaitanya Jandhyala
-Test Automation Engineer
+Test Automation Lead
 
-
----
-
-Do you want me to also prepare a **README.md** for the **Deck of Cards (Blackjack variation)** project? That way both repos (checkers + deck of cards) are consistent for the interviewer.
